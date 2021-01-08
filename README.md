@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm currently working on small but cool projects that are usefull 
+
 <!--
 **alemalohe/alemalohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
