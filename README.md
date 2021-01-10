@@ -4,7 +4,7 @@
 # Skills
 - [x] HTML5
 - [x] CSS3
-- [x] Less
+- [x] Less / Sass
 - [x] Javascript
 - [x] React
 - [x] TypeScript
