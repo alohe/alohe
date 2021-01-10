@@ -19,6 +19,7 @@ I'm a self-thought Full-stack developer
 
 ## :fire: I’m currently working on cool projects for my portfolio cuz cool is good right?
 If you have web app ideas that you want to be built for free checkout [Let me try.](https://letmetry.octos.me/) 
+
 :telescope: Check out my [website](https://alemalohe.github.io) if you want to learn more about me for some reason. :grinning:
 
 
