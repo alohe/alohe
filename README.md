@@ -17,8 +17,8 @@ I'm a self-thought Full-stack developer
 - [x] Webpack
 
 
-## 🔭 I’m currently working on cool projects for my portfolio cuz cool is good right?
-## Check out my [website](https://alemalohe.github.io) if you want to learn more about me for some reason.
+## :briefcase: I’m currently working on cool projects for my portfolio cuz cool is good right?
+## :telescope: Check out my [website](https://alemalohe.github.io) if you want to learn more about me for some reason.
 <!--
 **alemalohe/alemalohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
