@@ -1,5 +1,5 @@
 # :wave: Hi, i'm Alohe. 
-I'm a self-thought Full-stack developer
+**I'm a self-thought Full-stack developer**
 
 # Skills
 - [x] HTML5
