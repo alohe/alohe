@@ -1,6 +1,5 @@
-# :wave: Hi, i'm Alohe. 
+# :wave: Hi, i'm Alohe. ✨ [My Portfolio](https://alemalohe.github.io) ✨
 I'm a self-thought Full-stack developer
-✨ [My Portfolio](https://alemalohe.github.io) ✨
 
 # Skills
 - [x] HTML5
