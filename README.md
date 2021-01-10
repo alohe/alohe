@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi, i'm Alohe.👋
+## I'm a self-thought Full-stack developer
 
-- I'm currently working on small but cool projects that are usefull 
+[My Portfolio](https://alemalohe.github.io)
+
+
 
 <!--
 **alemalohe/alemalohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
