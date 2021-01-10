@@ -2,9 +2,20 @@
 ✨ [My Portfolio](https://alemalohe.github.io) ✨
 
 :muscle: Skills
-- HTML5 - CSS3 - Less - Javascript 
- - React - TypeScript - Bootstrap - Nodejs 
- - MySQL - Firebase - Nginx - Stripe - Webpack
+- HTML5
+ - CSS3
+ - Less
+ - Sass
+- Javascript
+- React
+- TypeScript
+- Bootstrap
+- Nodejs
+- MySQL
+- Firebase
+- Nginx
+- Stripe
+- Webpack
 
 <!--
 **alemalohe/alemalohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
