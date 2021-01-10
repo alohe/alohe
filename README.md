@@ -18,7 +18,7 @@ I'm a self-thought Full-stack developer
 
 
 ## 🔭 I’m currently working on cool projects for my portfolio cuz cool is good right?
-## [My Portfolio](https://alemalohe.github.io)
+## [Check out my website if you want to learn more about me for some reason.](https://alemalohe.github.io)
 <!--
 **alemalohe/alemalohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
