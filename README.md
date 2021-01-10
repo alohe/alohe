@@ -1,4 +1,5 @@
-# :wave: Hi, i'm Alohe. ##I'm a self-thought Full-stack developer
+# :wave: Hi, i'm Alohe. 
+I'm a self-thought Full-stack developer
 ✨ [My Portfolio](https://alemalohe.github.io) ✨
 
 # Skills
