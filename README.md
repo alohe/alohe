@@ -1,7 +1,7 @@
 # :wave: Hi, i'm Alohe. ##I'm a self-thought Full-stack developer
 ✨ [My Portfolio](https://alemalohe.github.io) ✨
 
-:muscle: Skills
+# Skills
 :point_right: HTML5
 :point_right: CSS3
 :point_right: Less
