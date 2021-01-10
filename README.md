@@ -1,4 +1,4 @@
-# :wave: Hi, i'm Alohe. ✨ [My Portfolio](https://alemalohe.github.io) ✨
+# :wave: Hi, i'm Alohe. 
 I'm a self-thought Full-stack developer
 
 # Skills
@@ -16,6 +16,9 @@ I'm a self-thought Full-stack developer
 - [x] Stripe
 - [x] Webpack
 
+
+## 🔭 I’m currently working on cool projects for my portfolio cuz cool is good right?
+[Portfolio](https://alemalohe.github.io)
 <!--
 **alemalohe/alemalohe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
