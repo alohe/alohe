@@ -21,6 +21,7 @@
 If you have web app ideas that you want to be built for free checkout [Let me try.](https://letmetry.octos.me/) 
 
 :telescope: Check out my [website](https://alemalohe.github.io) if you want to learn more about me for some reason. :grinning:
+[![Ałohe's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/alemalohe)
 
 
 <!--
