@@ -2,16 +2,15 @@
 **I'm a self-thought Full-stack developer**
 
 # Skills
-| HTML5 | CSS3 | Less / Sass | Javascript |
-- [x] React
-- [x] TypeScript
-- [x] Bootstrap
-- [x] Nodejs
-- [x] MySQL
-- [x] Firebase
-- [x] Nginx
-- [x] Stripe
-- [x] Webpack
+| Programming Languages | Frameworks / preprocessor | Experience |
+| --- | --- | --- |
+| HTML5 | | 97% |
+| CSS3 | Less / Sass, Bootstrap |  |
+|Javascript | React, TypeScript, Nodejs | |
+| MySQL | | |
+| Firebase | | |
+| Nginx | | |
+| Webpack | | |
 
 
 ### :fire: I’m currently working on cool projects for my portfolio cuz cool is good right?
