@@ -2,10 +2,7 @@
 **I'm a self-thought Full-stack developer**
 
 # Skills
-- [x] HTML5
-- [x] CSS3
-- [x] Less / Sass
-- [x] Javascript
+| HTML5 | CSS3 | Less / Sass | Javascript |
 - [x] React
 - [x] TypeScript
 - [x] Bootstrap
