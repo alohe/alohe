@@ -13,7 +13,7 @@
 | TypeScript | 90% | 2 Years |
 | Bootstrap | :fire: 97% | 5 Years |
 | Nodejs | :fire: 90% | 3 Years |
-| PostgreSQL | 65% | 1 Years |
+| PostgreSQL | 65% | 2 Months |
 | MySQL | :fire: 90% | 3 Years |
 | Firebase | 70% | 2 Years |
 | Nginx | 70% | 3 Years |
@@ -21,5 +21,6 @@
 | Webpack | 90% | 6 Months |
 | Linux | 90% | 3 Years |
 
+More on my website [alemalohe.github.io](https://alemalohe.github.io/)
 :fire: I’m currently working on cool projects for my portfolio. :bulb: If you have web app ideas that you want me to build for free checkout [Let me try.](https://letmetry.octos.me/) 
 ## :telescope: Check out my [website](https://alemalohe.github.io) if you want to learn more about me :grinning:
