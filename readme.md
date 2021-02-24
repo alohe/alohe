@@ -21,6 +21,5 @@
 | Webpack | 90% | 6 Months |
 | Linux | 90% | 3 Years |
 
-More on my website [alemalohe.github.io](https://alemalohe.github.io/)
 :fire: I’m currently working on cool projects for my portfolio. :bulb: If you have web app ideas that you want me to build for free checkout [Let me try.](https://letmetry.octos.me/) 
-## :telescope: Check out my [website](https://alemalohe.github.io) if you want to learn more about me :grinning:
+## :telescope: Check out my [website](https://alohe.github.io) if you want to learn more about me :grinning:
