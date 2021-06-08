@@ -1,5 +1,5 @@
 # :wave: Hi, i'm Alohe. 
-**I'm a self-thought Full-stack developer based in Addis Ababa, Ethiopia**
+**I'm a self-thought Full-stack developer**
 
 # Skills
 | :muscle: Language | :chart_with_upwards_trend: Knowledge level | :clock130: Experience |
